@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7050cca5-11b3-4d1e-bbcd-b6d40c905501" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Overloading1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +75,7 @@
     "Application.Method1Ref.executor": "Run",
     "Application.Method2.executor": "Run",
     "Application.MethodCasting1.executor": "Run",
+    "Application.MethodCasting2.executor": "Run",
     "Application.MethodReturn1.executor": "Run",
     "Application.MethodReturn2.executor": "Run",
     "Application.MethodValue0.executor": "Run",
@@ -83,6 +84,7 @@
     "Application.MoveRateEx.executor": "Run",
     "Application.NastedEx1.executor": "Run",
     "Application.NestedEx2.executor": "Run",
+    "Application.Overloading1.executor": "Run",
     "Application.Scanner1.executor": "Run",
     "Application.Scanner2.executor": "Run",
     "Application.Scanner3.executor": "Run",
@@ -140,7 +142,7 @@
       <recent name="cond" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodCasting2">
+  <component name="RunManager" selected="Application.Overloading3">
     <configuration name="MethodCasting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.MethodCasting1" />
       <module name="java-startt" />
@@ -167,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodValue0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodValue0" />
+    <configuration name="Overloading1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Overloading1" />
       <module name="java-startt" />
       <extension name="coverage">
         <pattern>
@@ -180,8 +182,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodValue1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodValue1" />
+    <configuration name="Overloading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Overloading2" />
       <module name="java-startt" />
       <extension name="coverage">
         <pattern>
@@ -193,8 +195,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodValue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodValue2" />
+    <configuration name="Overloading3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Overloading3" />
       <module name="java-startt" />
       <extension name="coverage">
         <pattern>
@@ -208,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Overloading3" />
+        <item itemvalue="Application.Overloading2" />
+        <item itemvalue="Application.Overloading1" />
         <item itemvalue="Application.MethodCasting2" />
         <item itemvalue="Application.MethodCasting1" />
-        <item itemvalue="Application.MethodValue2" />
-        <item itemvalue="Application.MethodValue1" />
-        <item itemvalue="Application.MethodValue0" />
       </list>
     </recent_temporary>
   </component>
