@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7050cca5-11b3-4d1e-bbcd-b6d40c905501" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +74,7 @@
     "Application.Method1.executor": "Run",
     "Application.Method1Ref.executor": "Run",
     "Application.Method2.executor": "Run",
+    "Application.MethodCasting1.executor": "Run",
     "Application.MethodReturn1.executor": "Run",
     "Application.MethodReturn2.executor": "Run",
     "Application.MethodValue0.executor": "Run",
@@ -142,9 +140,9 @@
       <recent name="cond" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodValue2">
-    <configuration name="MethodReturn1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodReturn1" />
+  <component name="RunManager" selected="Application.MethodCasting2">
+    <configuration name="MethodCasting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodCasting1" />
       <module name="java-startt" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReturn2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodReturn2" />
+    <configuration name="MethodCasting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodCasting2" />
       <module name="java-startt" />
       <extension name="coverage">
         <pattern>
@@ -210,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodCasting2" />
+        <item itemvalue="Application.MethodCasting1" />
         <item itemvalue="Application.MethodValue2" />
         <item itemvalue="Application.MethodValue1" />
         <item itemvalue="Application.MethodValue0" />
-        <item itemvalue="Application.MethodReturn2" />
-        <item itemvalue="Application.MethodReturn1" />
       </list>
     </recent_temporary>
   </component>
