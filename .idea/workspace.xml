@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7050cca5-11b3-4d1e-bbcd-b6d40c905501" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/method/Overloading1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3Ref.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +80,12 @@
     "Application.Method2.executor": "Run",
     "Application.MethodCasting1.executor": "Run",
     "Application.MethodCasting2.executor": "Run",
+    "Application.MethodEx1Ref.executor": "Run",
+    "Application.MethodEx2.executor": "Run",
+    "Application.MethodEx2Ref.executor": "Run",
+    "Application.MethodEx3.executor": "Run",
+    "Application.MethodEx3Ref.executor": "Run",
+    "Application.MethodEx4.executor": "Run",
     "Application.MethodReturn1.executor": "Run",
     "Application.MethodReturn2.executor": "Run",
     "Application.MethodValue0.executor": "Run",
@@ -85,6 +95,8 @@
     "Application.NastedEx1.executor": "Run",
     "Application.NestedEx2.executor": "Run",
     "Application.Overloading1.executor": "Run",
+    "Application.Overloading2.executor": "Run",
+    "Application.Overloading3.executor": "Run",
     "Application.Scanner1.executor": "Run",
     "Application.Scanner2.executor": "Run",
     "Application.Scanner3.executor": "Run",
@@ -135,20 +147,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="method.ex" />
       <recent name="method" />
       <recent name="array" />
       <recent name="scope" />
       <recent name="loop" />
-      <recent name="cond" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Overloading3">
-    <configuration name="MethodCasting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodCasting1" />
+  <component name="RunManager" selected="Application.MethodEx4">
+    <configuration name="MethodEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx2" />
       <module name="java-startt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodCasting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.MethodCasting2" />
+    <configuration name="MethodEx2Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx2Ref" />
       <module name="java-startt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloading1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.Overloading1" />
+    <configuration name="MethodEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx3" />
       <module name="java-startt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.Overloading2" />
+    <configuration name="MethodEx3Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx3Ref" />
       <module name="java-startt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloading3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.Overloading3" />
+    <configuration name="MethodEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx4" />
       <module name="java-startt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="method.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Overloading3" />
-        <item itemvalue="Application.Overloading2" />
-        <item itemvalue="Application.Overloading1" />
-        <item itemvalue="Application.MethodCasting2" />
-        <item itemvalue="Application.MethodCasting1" />
+        <item itemvalue="Application.MethodEx4" />
+        <item itemvalue="Application.MethodEx3Ref" />
+        <item itemvalue="Application.MethodEx3" />
+        <item itemvalue="Application.MethodEx2Ref" />
+        <item itemvalue="Application.MethodEx2" />
       </list>
     </recent_temporary>
   </component>
